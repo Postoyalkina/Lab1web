@@ -1,0 +1,22 @@
+html {
+	background-color:   #FFFFE0
+}
+table {
+	margin: auto;
+	background-color:  	#A0522D;
+	text-align: center;
+	color: black;
+}
+caption {
+	font-weight:bold;
+	font-size:30px;
+}
+th, td {
+	background: #DEB887;
+}
+caption {
+	color: black;
+}
+.day {	
+	font-weight:bold;
+}

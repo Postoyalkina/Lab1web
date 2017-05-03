@@ -1,0 +1,32 @@
+html {
+	background-color:   #FFFFE0
+}
+h1 {
+	padding-top: 20px;
+	text-align: center;
+	border-top: 1px dashed #191970;
+}
+p { 
+	padding-left: 60px;
+	padding-right: 70px;
+	text-align: justify;
+	border-left: 7px dotted #191970;
+	border-right: 7px dotted #191970;
+	font-family: 'Times New Roman', Times, serif;	
+	font-size: 20px;
+	margin-bottom: -1em;
+	text-indent: 25px;
+	 }
+#introduction {
+	font-family: 'Times New Roman', Times, serif; 
+    font-style: italic; 
+    padding-right: 100px;
+    padding-left: 300px;
+    text-align: right;
+    color: #191970;    
+}
+#pic {
+	float: right;
+	height:"300px" ;
+	width:"600px" ;
+}
